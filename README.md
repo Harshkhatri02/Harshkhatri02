@@ -19,7 +19,7 @@
 - 🌱 Currently diving into **Vite**, **Advanced Python**, and **Modern Web Technologies**  
 - 💡 Passionate about **Web Development**, **Database Management**, and **Cyber Security**  
 - 💼 Built **Career Spark** and **Certify Me**  
-- 💪 HackerRank enthusiast with **1201 Hackos** across **Problem Solving**, **Python**, **C**, and **SQL**  
+- 💪 HackerRank enthusiast with **1732 Hackos** across **Problem Solving**, **Python**, **C**, and **SQL**  
 - 🏆 3rd Rank Winner at **FUN-TECH 2023**  
 - 🧑‍💻 Developing an **Online Certificate Generation System** using Python  
 - 📘 Pursuing **BCA**, planning for **MCA** in Pune  
